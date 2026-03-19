@@ -1,0 +1,4 @@
+# Requirements for ViralCutz
+numpy
+opencv-python
+requests
